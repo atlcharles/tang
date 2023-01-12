@@ -39,6 +39,8 @@
 	}
 
 	footer {
+		position: fixed;
+		bottom: 0;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
@@ -55,4 +57,5 @@
 			padding: 40px 0;
 		}
 	}
+
 </style>

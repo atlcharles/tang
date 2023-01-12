@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Tang & Pivot" />
 </svelte:head>
 
 <section>
@@ -16,7 +16,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to<br />Tang & Pivot
 	</h1>
 
 	<h2>
@@ -36,6 +36,7 @@
 	}
 
 	h1 {
+		font-family: source sans pro;
 		width: 100%;
 	}
 
